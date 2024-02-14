@@ -48,7 +48,6 @@ img {
 .right-arrow {
   right: 5%;
 }
-.imageholder{
-    width: 450px;
-    height: 400px;
+.image{
+    height: 800px;
 }
